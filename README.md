@@ -3,6 +3,8 @@
 ## Description of Project:
 The purpose of this exercise is to track the mouse pointer on the screen and using JavaScript and CSS have the eyes move.
 
+To run this file just open eyes.html on a browser and move the mosue accross the screen so the eyes track the pointer.
+
 ## Roadmap of future improvements:
 Improve the way the eyes are renders on a mobile device.
 
